@@ -74,3 +74,17 @@ Both models are evaluated on the **same final 12-month period** to ensure fair c
 
 **King Fahd University of Petroleum and Minerals (KFUPM)**
 
+##Advisor
+
+**Dr. Mousa Ahmad Al-Bashrawi*8
+
+**Assistant Professor of Information Systems at KFUPM**
+
+##Co-advisor
+
+**Mr. Mohammed Agbawi**
+
+**Co-Founder & CEO of Sindbad Tech**
+
+
+
