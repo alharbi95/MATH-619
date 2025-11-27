@@ -1,6 +1,6 @@
 # MATH 619
 
-#  MATH-619: Hybrid CNN-LSTM Stock Price Forecasting Using Technical and Sentiment Indicators
+Paper title Hybrid CNN-LSTM Stock Price Forecasting Using Technical and Sentiment Indicators
 
 This repository contains the full code, documentation, and supporting files for my MATH-619 graduate project at King Fahd University of Petroleum and Minerals (KFUPM).  
 The project explores deep learning–based stock movement prediction using a hybrid **CNN–LSTM architecture**, combining **technical indicators**, **market volatility (VIX)**, and **Twitter sentiment**.
