@@ -68,9 +68,9 @@ Both models are evaluated on the **same final 12-month period** to ensure fair c
 
 - Author:
   
-**Abdullah Hussain Alharbi
+**Abdullah Hussain Alharbi**
 
-MSc Data Science & Analytics
+**MSc Data Science & Analytics**
 
-King Fahd University of Petroleum and Minerals (KFUPM)**
+**King Fahd University of Petroleum and Minerals (KFUPM)**
 
