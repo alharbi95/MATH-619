@@ -68,3 +68,29 @@ Both models are evaluated on the **same final 12-month period** to ensure fair c
 
 ##  Repository Structure
 
+MATH-619/
+│
+├── data/ # sample datasets (no full raw data)
+│ ├── sample_technical.csv
+│ ├── sample_sentiment.csv
+│
+├── notebooks/
+│ ├── 01_data_preparation.ipynb
+│ ├── 02_sentiment_integration.ipynb
+│ ├── 03_modelA_cnn_lstm.ipynb
+│ ├── 04_modelB_sentiment.ipynb
+│ ├── 05_shap_explainability.ipynb
+│
+├── src/ # Python scripts for modular code
+│ ├── data_loader.py
+│ ├── technical_features.py
+│ ├── model_cnn_lstm.py
+│ ├── evaluation.py
+│
+├── results/
+│ ├── performance/
+│ ├── shap/
+│
+├── README.md # this file
+└── requirements.txt # pip dependencies
+
