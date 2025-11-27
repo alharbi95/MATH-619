@@ -66,7 +66,7 @@ Both models are evaluated on the **same final 12-month period** to ensure fair c
 
 ---
 
-## Author:
+## Author
   
 **Abdullah Hussain Alharbi**
 
