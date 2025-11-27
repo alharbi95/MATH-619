@@ -19,7 +19,7 @@ This project aims to bridge this gap by:
 - Comparing:
   - **Model A:** Technical-only  
   - **Model B:** Technical + Sentiment  
-- Using ** explainability** to interpret model behavior
+- Using ** Explainable AI** to interpret model behavior
 
 ---
 
