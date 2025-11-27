@@ -37,7 +37,7 @@ Indicators:
 - OHLC  
 
 ### **Market Fear Index (VIX)**
-Source: Yahoo Finance / TradingView  
+Source: TradingView  
 Years: 2015–2025  
 
 ### **Twitter Sentiment (2021–2022)**
