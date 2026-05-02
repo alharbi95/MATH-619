@@ -175,9 +175,8 @@ For full reproduction details, training configurations, and ablation studies, se
 
 ## Author
 
-**Abdullah Hussain Alharbi**
-
-Student ID: g202415480
+- **Abdullah Hussain Alharbi**
+- Student ID: g202415480
 
 Master of Science in Data Science & Analytics
 King Fahd University of Petroleum & Minerals
