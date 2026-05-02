@@ -7,9 +7,9 @@
 ![Keras](https://img.shields.io/badge/Keras-3.13-red)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-**MATH-619 Capstone Project**
+**MATH-619 Project**
 King Fahd University of Petroleum & Minerals — Mathematics Department
-Master of Science in Data Science & Analytics
+Master in Data Science & Analytics
 
 ---
 
