@@ -203,7 +203,7 @@ If this work is useful in your research, please cite:
 
 ## License
 
-This project is released for academic and educational purposes.
+This project is released for academic and educational purposes only.
 
 ---
 
