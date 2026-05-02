@@ -152,10 +152,10 @@ Integrated Gradients reveals strong **temporal recency bias**: ~60% of the model
     .
     ├── Code.ipynb                     # Main Jupyter notebook with full pipeline
     ├── Code.py                        # Python script export
-    ├── Math619_g202415480_.pdf        # Full project report
-    ├── poster/                        # A0 academic poster (PDF + PowerPoint)
-    ├── data/                          # Input datasets (technical + sentiment)
-    └── README.md                      # This file
+    ├── README.md                      # # This file 
+    ├── Report.pdf                     # Full project report 
+    └── dataset_summary.pdf            # Input datasets (technical + sentiment)
+
 
 ---
 
